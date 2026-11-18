@@ -12,6 +12,10 @@ Class Program
     T1.start();
     T2.start();
     t3.start();    
+
+	t1.Join();
+    t2.Join();
+    t3.Join();
     }
 }
 
